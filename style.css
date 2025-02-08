@@ -6,6 +6,7 @@ body {
   background: #fde3a7; /*CAPE HONEY*/
   margin: 0px;
   padding: 0px;
+  overflow: hidden;
 }
 
 * {
